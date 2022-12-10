@@ -1,10 +1,10 @@
  {
- "contactOwner": "Nomor ke 1 lu",
- "contactOwner2": "Nomor ke 2 lu", 
- "botName": "Nama Bot",
- "ownerName": "Nama lu",
+ "contactOwner": "6285780036817",
+ "contactOwner2": "6285894403410", 
+ "botName": "Lulu Bot",
+ "ownerName": "XyroStore",
  "sessionName": "session",
- "footer": "Nama Bot © 2022",
+ "footer": "Lulu Bot © 2022",
  "packname": "Seterah",
  "author": "Seterah",
  
