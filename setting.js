@@ -35,7 +35,7 @@
  "api_zenz": "APIKEY LU", 
  
  "login_di": "https://atlantic-pedia.co.id/reff/RonzzOfc",
- "apikey_antlatic": "APIKEY LU", 
+ "apikey_antlatic": "c999dca7eab813915260e737dce418476516d1a63530bbd051d9a26df188c7b0", 
  
  "payment": {
     "qris": {
