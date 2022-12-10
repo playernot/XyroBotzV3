@@ -32,7 +32,7 @@
   "apikey_ronzz": "925n2c494",
  
  "login_di": "https://zenzapis.xyz",
- "api_zenz": "APIKEY LU", 
+ "api_zenz": "7a8ac28f9e", 
  
  "login_di": "https://atlantic-pedia.co.id/reff/RonzzOfc",
  "apikey_antlatic": "c999dca7eab813915260e737dce418476516d1a63530bbd051d9a26df188c7b0", 
