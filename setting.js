@@ -29,7 +29,7 @@
   "apikey_alpha": "APIKEY LU", 
   
   "login_di": "https://ronzxapis.my.id",
-  "apikey_ronzz": "APIKEY LU",
+  "apikey_ronzz": "925n2c494",
  
  "login_di": "https://zenzapis.xyz",
  "api_zenz": "APIKEY LU", 
