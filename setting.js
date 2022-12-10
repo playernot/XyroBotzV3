@@ -8,25 +8,25 @@
  "packname": "Seterah",
  "author": "Seterah",
  
- "youtube": "YouTube lu kalo ga punya kasih tanda min (-) ajah",
- "github": "Github lu",
- "instagram": "Instagram lu",
- "tiktok": "Tiktok lu",
- "website": "Website lu",
- "email": "Email lu",
- "gender": "Gender/Alat kelamin lu",
- "agama": "Agama lu",
- "tanggallahir": "Tanggal lahir lu",
- "umur": "Umur lu",
- "kelas": "Kelas lu",
- "hobi": "Hobi lu",
- "sifat": "Sifat lu",
- "tinggal": "Tempat tinggal lu",
- "suka": "Lu suka apa? ",
- "benci": "Lu benci apa? ",
+ "youtube": "Xyro Store",
+ "github": "-",
+ "instagram": "xyrostore_real",
+ "tiktok": "xyrostore_real",
+ "website": "-",
+ "email": "-",
+ "gender": "Laki-Laki",
+ "agama": "Islam",
+ "tanggallahir": "16-03-2008",
+ "umur": "14/15",
+ "kelas": "IX",
+ "hobi": "Sepak Bola",
+ "sifat": "Penyabar",
+ "tinggal": "Karawang",
+ "suka": "Kopi",
+ "benci": "Bencong",
  
   "login_di": "https://api.zeeoneofc.xyz",
-  "apikey_alpha": "APIKEY LU", 
+  "apikey_alpha": "7bKjrlDg", 
   
   "login_di": "https://ronzxapis.my.id",
   "apikey_ronzz": "925n2c494",
@@ -43,8 +43,8 @@
       "atas_nama": "Nama lu" 
     },
     "dana": {
-      "nomer": "Nomor dana lu", 
-      "atas_nama": "Nama lu" 
+      "nomer": "085894403410", 
+      "atas_nama": "XYRO STORE" 
     }},
     
   "pathQris": "./temp/media/qris.jpg", 
