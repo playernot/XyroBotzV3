@@ -1,12 +1,12 @@
  {
  "contactOwner": "6285780036817",
  "contactOwner2": "6285894403410", 
- "botName": "Lulu Bot",
+ "botName": "LuluBotz",
  "ownerName": "XyroStore",
  "sessionName": "session",
- "footer": "Lulu Bot © 2022",
- "packname": "Seterah",
- "author": "Seterah",
+ "footer": "LuluBotz © 2022",
+ "packname": "LuluBotz",
+ "author": "LuluBotz ® 2022",
  
  "youtube": "Xyro Store",
  "github": "-",
