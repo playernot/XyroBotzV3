@@ -784,7 +784,7 @@ return `
 
 exports.grupwa = (prefix) => {
 return `*GROUP WHATSAPP*
-https://chat.whatsapp.com/Eamzpgum2MXFUch9TBx75M
+https://chat.whatsapp.com/C7dHbNBFXb8ACiguEAgK7L
 
 _Jangan Lupa Join Ya Kak_ 😊`
 }
