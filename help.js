@@ -795,11 +795,11 @@ return `*Hallo ${pushname}*
 *pilih aja payment di bawah ya☺️*
 
 ╭───❏『 *Donasi • Emoney* 』
-├ *Dana : 08817839722*
-├ *Gopay : 08817839722*
-├ *Ovo : 08817839722*
-├ *Saweria :* https://saweria.co/RonzzYT
-├ *Trakteer :* https://trakteer.id/ronzz-yt-ka99x
+├ *Dana : 085894403410*
+├ *Gopay : 085894403410*
+├ *Ovo : 085894403410*
+├ *Saweria :* https://saweria.co/XyroOffic
+├ *Trakteer :* https://trakteer.id/xyrostore-10
 ├ *Qris : Scan qr di atas*
 ╰──❏
 
